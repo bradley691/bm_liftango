@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "liftango assesment js files",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.1.0"
+  },
   "devDependencies": {},
   "scripts": {
-    "start" : "node index.js",
+    "start": "node index.js",
     "test": "node part1.js"
   },
   "author": "",
