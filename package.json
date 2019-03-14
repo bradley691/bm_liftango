@@ -1,0 +1,14 @@
+{
+  "name": "bm_liftango",
+  "version": "1.0.0",
+  "description": "liftango assesment js files",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node index.js",
+    "test": "node part1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
